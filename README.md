@@ -11,3 +11,6 @@ Projekt jest aplikacją webową, która umożliwia zarządzanie zadaniami i proj
 ## link do repo
 
 [Repozytorium na GitHUB](https://github.com/JakuGo123/moj_projekt)
+
+## Pliki ignorowane
+- `notatki.txt` - plik lokalny ignorowany przez `.gitignore`
