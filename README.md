@@ -8,4 +8,6 @@ Projekt jest aplikacją webową, która umożliwia zarządzanie zadaniami i proj
 
 - Jakub Gojło
 
+## link do repo
 
+[Repozytorium na GitHUB](https://github.com/JakuGo123/moj_projekt)
